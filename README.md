@@ -1,6 +1,8 @@
 
 
-# conf
+# ProjectName
+
+ProjectName and Description
 
 <!-- PROJECT SHIELDS -->
 
@@ -18,10 +20,8 @@
   <a href="https://github.com/yunhao-dev/confs/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
-  <h3 align="center">各大框架配置文件</h3>
+  <h3 align="center">配置文件存储库</h3>
   <p align="center">
-    方便快速使用各大框架
     <br />
     <a href="https://github.com/yunhao-dev/confs"><strong>探索本项目的文档 »</strong></a>
     <br />
@@ -42,9 +42,9 @@
 ## 目录
 
 - [上手指南](#上手指南)
+  - [开发前的配置要求](#开发前的配置要求)
   - [安装步骤](#安装步骤)
-- [配置文件说明](#配置文件说明)
-- [使用到的框架](#使用到的框架)
+- [配置说明](#配置文件说明)
 - [贡献者](#贡献者)
   - [如何参与开源项目](#如何参与开源项目)
 - [版本控制](#版本控制)
@@ -52,10 +52,6 @@
 - [鸣谢](#鸣谢)
 
 ### 上手指南
-
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
-
-
 
 ###### **安装步骤**
 
@@ -66,14 +62,11 @@
 git clone https://github.com/yunhao-dev/confs.git
 ```
 
-### 配置文件说明
-
+### 文件目录说明
 |       框架        |                           配置文件                           |
 | :---------------: | :----------------------------------------------------------: |
 | SpringBootLogging | [logback-spring.xml](https://github.com/yunhao-dev/confs/blob/main/SpringBootLogging/logback-spring.xml) |
 |       Redis       | [redis.conf](https://github.com/yunhao-dev/confs/blob/main/Redis/redis.conf) |
-
-
 
 ### 贡献者
 
@@ -100,7 +93,36 @@ git clone https://github.com/yunhao-dev/confs.git
 
 yunhao-dev
 
+qq:2384982531
 
+ *您也可以在贡献者名单中参看所有参与该项目的开发者。*
+
+
+
+### 鸣谢
+
+
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Img Shields](https://shields.io)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Pages](https://pages.github.com)
+- [Animate.css](https://daneden.github.io/animate.css)
+- [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
+
+<!-- links -->
+[your-project-path]:yunhao-dev/confs
+[contributors-shield]: https://img.shields.io/github/contributors/yunhao-dev/confs.svg?style=flat-square
+[contributors-url]: https://github.com/yunhao-dev/confs/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/yunhao-dev/confs.svg?style=flat-square
+[forks-url]: https://github.com/yunhao-dev/confs/network/members
+[stars-shield]: https://img.shields.io/github/stars/yunhao-dev/confs.svg?style=flat-square
+[stars-url]: https://github.com/yunhao-dev/confs/stargazers
+[issues-shield]: https://img.shields.io/github/issues/yunhao-dev/confs.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/yunhao-dev/confs.svg
+[license-shield]: https://img.shields.io/github/license/yunhao-dev/confs.svg?style=flat-square
+[license-url]: https://github.com/yunhao-dev/confs/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/shaojintian
 
 
 
